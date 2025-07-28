@@ -1,0 +1,7 @@
+Materials Required:-
+1.Relay 12v  
+2.Zero pcb board 
+3.Transistor BC547  
+4.Resistor 100k 
+5.Diode 1N4007  
+6.LDR Sensor  
